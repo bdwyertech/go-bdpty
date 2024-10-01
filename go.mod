@@ -1,6 +1,6 @@
 module github.com/bdwyertech/go-bdpty
 
-go 1.23.1
+go 1.21
 
 require (
 	github.com/UserExistsError/conpty v0.1.4
